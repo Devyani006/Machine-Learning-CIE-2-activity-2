@@ -8,7 +8,7 @@
 This repository contains the workflow and model for **Activity 2: Simple House Price Prediction**. The objective of this activity is to build a Linear Regression machine learning model to predict house prices based on various features and evaluate it using standard regression metrics.
 
 ## Dataset / Source
-The project uses the **California Housing Dataset**, which is loaded directly via the `scikit-learn` library. It includes features such as median income, house age, average rooms, population, and location coordinates to predict the median house value.
+The dataset used for this activity is the California Housing dataset, originally published in: Pace, R. Kelley and Ronald Barry, "Sparse Spatial Autoregressions," Statistics and Probability Letters, 33 (1997) 291-297.
 
 ## Work Completed
 1. **Data Loading & Inspection**: Loaded the dataset and verified there were no missing values.
